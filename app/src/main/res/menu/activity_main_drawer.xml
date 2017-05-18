@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_agregar"
+            android:icon="@drawable/ic_add_circle_black_24dp"
+            android:title="Agregar elemento" />
+        <item
+            android:id="@+id/nav_editar"
+            android:icon="@drawable/ic_mode_edit_black_24dp"
+            android:title="Editar elemento" />
+        <item
+            android:id="@+id/nav_mostrar"
+            android:icon="@drawable/ic_folder_black_24dp"
+            android:title="Mostrar elementos" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_trending_up_black_24dp"
+            android:title="Mostrar grafica" />
+    </group>
+
+    <item android:title="Compartir">
+        <menu>
+            <item
+                android:id="@+id/nav_post"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Compartir" />
+            <!--<item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartir"
+                android:actionProviderClass=
+                    "android.widget.ShareActionProvider"/>-->
+
+        </menu>
+    </item>
+
+</menu>
