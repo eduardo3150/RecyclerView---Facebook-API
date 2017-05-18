@@ -16,6 +16,15 @@ Móvil con android (API 18+) para pruebas
 * [Android Studio](https://developer.android.com/studio/index.html)
 * [Facebook SDK](https://developers.facebook.com/docs/android/)
 
+## Imagenes
+
+![alt text](http://i.imgur.com/KqGhE0S.png "Logo Title Text 1")
+
+![alt text](http://i.imgur.com/O2Fi6gq.png "Logo Title Text 1")
+
+![alt text](http://i.imgur.com/NvMFobl.png "Logo Title Text 1")
+
+
 ## Licencia
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
